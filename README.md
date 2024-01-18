@@ -23,4 +23,4 @@ No installation is necessary. Simply download `clear_svg_dimensions.py` to your 
 To use the script, navigate to the directory where `clear_svg_dimensions.py` is located and run the following command in the terminal:
 
 ```bash
-python clear_svg_dimensions.py /path/to/svg/directory
+python3 clear_svg_dimensions.py /path/to/svg/directory
