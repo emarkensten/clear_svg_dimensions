@@ -1,0 +1,5 @@
+# Exclude directory
+24px/
+
+# Exclude specific zip file
+24px.zip
